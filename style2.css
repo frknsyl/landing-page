@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto';
+    background-color: #1f2937;
+    font-size: 22px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: larger;
+    text-align: center;
+    color: #f9faf8;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    color: #f9faf8;
+    display: inline-block;
+}
+
+a:hover {
+    color: #FF5F3D;
+}
